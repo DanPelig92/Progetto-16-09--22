@@ -1,0 +1,1 @@
+onst prompt = require('prompt-sync')(); /*installlare "npm install prompt-sync"*/ /*ricordati node script.js */
